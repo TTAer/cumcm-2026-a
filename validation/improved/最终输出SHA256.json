@@ -1,12 +1,12 @@
 {
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\提交结果\\result1.xlsx": "270cb08d808f28a271a96d69b9a9615498a4460d5ab6a9be6ca27dd7d3e1d892",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\提交结果\\result2.xlsx": "d6cd6c8bd1a7aa427044e2e1601d08e741ba7a478461011cc54a722508ec8e9f",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\提交结果\\result3.xlsx": "cf51802796de9c0fa0491a91867ceb4b4d749d76541a7d1b8a72296cf7288f31",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\提交结果\\result4.xlsx": "dd6c2ba3e92824eab1c951bda885a93a0d3a00b7634ed276ba058b72d1d036f2",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q1_C.csv": "bbe83e7d5cb88e8f4e3af7a642e1f0f46240c163b0d13ae54ff9571125b18690",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q1_T.csv": "b260b0dc5be9d6c49708244dae4a4ee43aa9eb3df07bb45bb46d14009375f455",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q2_C.csv": "bda2bbaaf4df9c24265599facfc9151039bf128e6ef7dbe0059f2db83cfbfa74",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q2_T.csv": "72e66ed144b841f3c2790da86dab2b3947978dcbd45e421068d288a03540d0b1",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q3_C.csv": "20ceb90eab4cd1fdcb555c559244ea5e7e8d583e501b70f88e1dd503a1214010",
-  "D:\\数学建模国赛\\A题\\A题_改进交付版\\计算结果\\q4_C.csv": "0414cd56eb13f52249e8e7ee933089670f98d112d859653ff6013680a388d0ba"
+  "results/workbooks/result1.xlsx": "270cb08d808f28a271a96d69b9a9615498a4460d5ab6a9be6ca27dd7d3e1d892",
+  "results/workbooks/result2.xlsx": "d6cd6c8bd1a7aa427044e2e1601d08e741ba7a478461011cc54a722508ec8e9f",
+  "results/workbooks/result3.xlsx": "cf51802796de9c0fa0491a91867ceb4b4d749d76541a7d1b8a72296cf7288f31",
+  "results/workbooks/result4.xlsx": "dd6c2ba3e92824eab1c951bda885a93a0d3a00b7634ed276ba058b72d1d036f2",
+  "results/tables/q1_C.csv": "bbe83e7d5cb88e8f4e3af7a642e1f0f46240c163b0d13ae54ff9571125b18690",
+  "results/tables/q1_T.csv": "b260b0dc5be9d6c49708244dae4a4ee43aa9eb3df07bb45bb46d14009375f455",
+  "results/tables/q2_C.csv": "bda2bbaaf4df9c24265599facfc9151039bf128e6ef7dbe0059f2db83cfbfa74",
+  "results/tables/q2_T.csv": "72e66ed144b841f3c2790da86dab2b3947978dcbd45e421068d288a03540d0b1",
+  "results/tables/q3_C.csv": "20ceb90eab4cd1fdcb555c559244ea5e7e8d583e501b70f88e1dd503a1214010",
+  "results/tables/q4_C.csv": "0414cd56eb13f52249e8e7ee933089670f98d112d859653ff6013680a388d0ba"
 }
