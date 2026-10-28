@@ -1,0 +1,6 @@
+{
+  "物质导数": "Subs(Derivative(U(r/R(t), _xi_2), _xi_2), _xi_2, t)",
+  "目标": "Subs(Derivative(U(r/R(t), tau), tau), tau, t)",
+  "差值": "0",
+  "通过": true
+}

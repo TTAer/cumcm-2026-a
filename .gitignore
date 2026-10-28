@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 临时/审核/解压
+_tmp_review/
+_审核*/
+_对比/
+_改进建议解包/
+*.zip
+tree.txt
+_bench.txt
+
+# 大文件/中间结果
+*.npz
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# 文档/合规
+*.doc
+*.docx
+承诺书*
+A题.pdf
+全国大学生数学建模竞赛论文格式规范*
+国赛论文*
+论文批注*
+论文参考文献*
